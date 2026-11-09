@@ -1,0 +1,10 @@
+# Private / local-only: never upload these
+saved_login.json
+saved_login.key
+access_control.json
+field_map.json
+local_data/
+vendor/
+server.log
+*.log
+__pycache__/
